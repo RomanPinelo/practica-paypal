@@ -29,6 +29,8 @@ Esta es la pantalla de descripción de producto, a la cual llegamos al hacer cli
 
 ![ss2](https://user-images.githubusercontent.com/71656431/105922659-ae91f680-6000-11eb-84ec-991dddecb8a8.jpg)
 
+Si damos click en el logo del header, nos llevará de nuevo a Home.
+
 En la pantalla de Home, al hacer click en el boton **Lo quiero**:
 
 ![ss4](https://user-images.githubusercontent.com/71656431/105922693-c5384d80-6000-11eb-8bc1-c68a5a33e7b7.jpg)
