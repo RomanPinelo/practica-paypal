@@ -38,6 +38,7 @@ nos lleva a la pantalla donde tendremos nuestro formulario para realizar el pago
 
 ![ss3](https://user-images.githubusercontent.com/71656431/105922673-b8b3f500-6000-11eb-8012-a330c1976d45.jpg)
 
+El botón de **Confirmar pago** es el botón creado en PayPal con nuestro propio estilo.
 
 Esta es la pantalla de éxito de pago:
 
@@ -51,7 +52,7 @@ Esta es la pantalla de error de pago:
 
 En el siguiente link puedes ver la página funcionando: 
 
-https://romanpinelo.github.io/
+https://romanpinelo.github.io/practica-paypal/
 
 
 **NOTA: Las imágenes no están referenciadas desde un lugar especializado en alojamiento de imágenes.**
